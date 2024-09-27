@@ -1,0 +1,100 @@
+Translated Prescription in Telugu:
+
+రోగి వివరాలు:
+
+రోగి పేరు: మహేష్ బాబు
+రోగి ID: MBR1978
+వయస్సు: 46
+డాక్టర్ పేరు: డాక్టర్ శ్రీనివాస్ రెడ్డి
+డాక్టర్ ఫోన్: +91 9876543210
+రోగనిర్ధారణ: అధిక రక్తపోటుతో పాటు డిస్‌లిపిడెమియా
+చికిత్స రకం: మందులు
+చికిత్స ప్రారంభ తేదీ: 27-09-2024
+చికిత్స ముగింపు తేదీ: 30-09-2024
+ఫాలో-అప్ అపాయింట్‌మెంట్ తేదీ: 05-10-2024
+
+మందులు:
+
+మందు 1:
+మందు పేరు: అమ్లోడిపిన్
+డోసేజ్ సూచనలు: ప్రతి రోజూ సాయంత్రం 5 మి.గ్రా టాబ్లెట్ తీసుకోండి
+ఫ్రీక్వెన్సీ: ప్రతి రోజూ ఒకసారి
+వ్యవధి: 6 నెలలు
+
+మందు 2:
+మందు పేరు: అటోర్‌వాస్టాటిన్
+డోసేజ్ సూచనలు: ప్రతి రోజూ పడుకోబోయే ముందు 10 మి.గ్రా టాబ్లెట్ తీసుకోండి
+ఫ్రీక్వెన్సీ: ప్రతి రోజూ ఒకసారి
+వ్యవధి: 6 నెలలు
+
+మందు 3:
+మందు పేరు: ఆస్పిరిన్
+డోసేజ్ సూచనలు: ప్రతి రోజూ అల్పాహారం తర్వాత 75 మి.గ్రా టాబ్లెట్ తీసుకోండి
+ఫ్రీక్వెన్సీ: ప్రతి రోజూ ఒకసారి
+వ్యవధి: 6 నెలలు
+
+తెలిసిన అలెర్జీలు:
+ఏవీ లేవు
+
+ప్రత్యేక గమనికలు:
+1. పండ్లు, కూరగాయలు మరియు పూర్తి ధాన్యాలు ఎక్కువగా ఉండే, సోడియం తక్కువగా ఉండే, హృదయ ఆరోగ్యకరమైన ఆహారాన్ని తీసుకోండి.
+2. క్రమం తప్పకుండా వ్యాయామం చేయండి: వారానికి కనీసం 150 నిమిషాల మధ్య-తీవ్రత వ్యాయామం చేయండి.
+3. రక్తపోటును క్రమం తప్పకుండా ఇంట్లో పర్యవేక్షించండి మరియు ఒక లాగ్ మెయింటైన్ చేయండి.
+4. మద్యపానాన్ని అధికంగా సేవించకుండా మరియు పొగాకు ఉత్పత్తులకు పూర్తిగా దూరంగా ఉండండి.
+5. నిర్ణీత సమయాల్లో మందులు తీసుకోండి.
+6. ఏవైనా అసాధారణ దుష్ప్రభావాలు లేదా ఛాతీ అసౌకర్యాన్ని వెంటనే నివేదించండి.
+7. తదుపరి అపాయింట్‌మెంట్ ముందు లిపిడ్ ప్రొఫైల్ పరీక్ష షెడ్యూల్ చేయండి.
+8. ఒత్తిడి నిర్వహణ: డీప్ బ్రీతింగ్ లేదా ధ్యానం వంటి రిలాక్సేషన్ టెక్నిక్‌లను మీ దినచర్యలో చేర్చండి.
+
+తదుపరి అపాయింట్‌మెంట్: ఇటీవలి రక్తపోటు లాగ్‌లు మరియు ఏవైనా కొత్త పరీక్ష ఫలితాలను తీసుకురండి.
+
+----------
+
+Original Prescription in English:
+
+Patient Details:
+
+Patient Name: Mahesh Babu
+Patient ID: MBR1978
+Age: 46
+Doctor's Name: Dr. Srinivas Reddy
+Doctor's Contact: +91 9876543210
+Diagnosis: Essential Hypertension with Dyslipidemia
+Treatment Type: Medication
+Treatment Start Date: 27-09-2024
+Treatment End Date: 30-09-2024
+Follow-Up Appointment Date: 05-10-2024
+
+Medications:
+
+Medication 1:
+Medication Name: Amlodipine
+Dosage Instructions: Take 5 mg tablet once daily in the evening
+Frequency: Once daily
+Duration: 6 months
+
+Medication 2:
+Medication Name: Atorvastatin
+Dosage Instructions: Take 10 mg tablet once daily at bedtime
+Frequency: Once daily
+Duration: 6 months
+
+Medication 3:
+Medication Name: Aspirin
+Dosage Instructions: Take 75 mg tablet once daily after breakfast
+Frequency: Once daily
+Duration: 6 months
+
+Known Allergies:
+None reported
+Special Notes:
+1. Maintain a low-sodium, heart-healthy diet rich in fruits, vegetables, and whole grains.
+2. Engage in regular physical activity: aim for at least 150 minutes of moderate-intensity exercise per week.
+3. Monitor blood pressure at home regularly and maintain a log.
+4. Avoid excessive consumption of alcohol and completely abstain from tobacco products.
+5. Take medications at the prescribed times without fail.
+6. Report any unusual side effects or chest discomfort immediately.
+7. Schedule a lipid profile test before the next appointment.
+8. Stress management: Consider incorporating relaxation techniques like deep breathing or meditation into your daily routine.
+
+Next appointment: Bring recent blood pressure logs and any new test results.
