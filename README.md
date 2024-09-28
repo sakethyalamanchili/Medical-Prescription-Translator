@@ -11,6 +11,10 @@ Medical Prescription Translator is a Streamlit-based web application that levera
 - Provides downloadable translated prescriptions
 - Utilizes Gemini AI for high-quality medical translations
 
+## Block Diagram
+
+![block diagram](images/medical-prescription-blockdiagram.png)
+
 ## Demo
 
 Check out the live demo: [Medical Prescription Translator](https://meditranslatebysaketh.streamlit.app/)
